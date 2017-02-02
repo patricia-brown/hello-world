@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I want to learn to code.  I like HTML, CSS, JS and PHP.
